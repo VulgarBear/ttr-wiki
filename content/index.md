@@ -1,6 +1,23 @@
 ---
-title: Welcome to Quartz
+title: Talking Room Community
+description: Welcome page for wiki
+aliases:
+  - welcome
+tags:
+  - general
+draft: false
+date:
 ---
+Welcome to the Talking Room community wiki. This site serves to hold information that doesn't make sense to contain within discord as well as information to be available for those not currently within our servers.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Generally any questions or concerns can be directed towards VulgarBear or any of the server staff.
+
+## Quick Links
+
+### Rules
+
+### Modding
+- [[mod-collections]]
+
+### Tabletop Room
+
