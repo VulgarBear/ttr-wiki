@@ -17,7 +17,8 @@ Generally any questions or concerns can be directed towards VulgarBear or any of
 ### Rules
 
 ### Modding
-- [[mod-collections]]
+- [[mod collections]]
+- [[r2modman install]]
 
 ### Tabletop Room
 

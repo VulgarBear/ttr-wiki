@@ -5,7 +5,7 @@ aliases:
 tags:
   - games
   - modding
-draft: true
+draft: false
 date: 5/2/25
 ---
 We utilize a few different ways to mod our games including steam workshop collections, r2modman packs, and prism launcher. If you would like a mod to a pack below please speak to the owner. To have your pack listed here please contact server staff.
