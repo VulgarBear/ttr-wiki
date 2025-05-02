@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Talking Room",
-    pageTitleSuffix: " Community Wiki",
+    pageTitle: "Talking Room 🥸",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -23,9 +23,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Funnel Display",
+        body: "Lato",
+        code: "Ubuntu Mono",
       },
       colors: {
         lightMode: {
@@ -40,15 +40,15 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#000000", // Page Background
+          lightgray: "#2B2B2B", // borders
+          gray: "#565656", // graph links, heavier borders
+          darkgray: "#ACACAC", // body text
+          dark: "#FFC300", // header text and icons
+          secondary: "#FFC300", //link color, current graph node
+          tertiary: "#FFEA00", // hover states and visited graph nodes
+          highlight: "rgba(143, 159, 169, 0.15)", // internal link background, highlighted text, highlighted lines of code
+          textHighlight: "#b3aa0288", // markdown highlighted text background
         },
       },
     },

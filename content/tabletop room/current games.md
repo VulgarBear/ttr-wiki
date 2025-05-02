@@ -1,5 +1,5 @@
 ---
-title: Tabletop Room Games
+title: Current Tabletop Games
 description: List of currently running and planned games and their game/dungeon master.
 aliases: 
 tags:
@@ -15,4 +15,5 @@ date:
 **Season of Ghosts (PF2e/Foundry) - VulgarBear**: An official adventure path, currently running through first book. If enjoyed we will continue through the additional books until finished with the AP.
 
 ## Planned Games
-Currently no games are in planning.
+Announcements will be made in the discord for any planned games.
+- Nothing planned

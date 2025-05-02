@@ -23,3 +23,4 @@ Generally any questions or concerns can be directed towards VulgarBear or any of
 - [[r2modman install]]
 
 ### Tabletop Room
+- [[current games]]
