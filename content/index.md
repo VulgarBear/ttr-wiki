@@ -15,10 +15,11 @@ Generally any questions or concerns can be directed towards VulgarBear or any of
 ## Quick Links
 
 ### Rules
+- [[general rules]]
+- [[tabletop rules]]
 
 ### Modding
 - [[mod collections]]
 - [[r2modman install]]
 
 ### Tabletop Room
-
