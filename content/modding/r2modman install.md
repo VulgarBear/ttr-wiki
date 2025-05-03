@@ -38,6 +38,4 @@ Click **Start Modded** to launch your modded instance of the game and then click
 
 ![[r2modman-start.png]]
 
-Codes will look like the REPO one below. For additional codes check out our [[mod collections]] page with the full list.
-
-**R.E.P.O:** `01965b60-842d-c8db-725c-46d165a58d9e` (This will most likely not be current use the link above.)
+Codes can be found on the [[mod collections]] page, this will be updated every time a new code is made available.
