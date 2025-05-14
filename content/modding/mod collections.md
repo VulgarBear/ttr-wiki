@@ -16,7 +16,7 @@ We utilize a few different ways to mod our games including steam workshop collec
 ### r2modman
 r2modman packs are shared via codes. Generally an announcement will be made if a pack has been updated. Check [here](https://wiki.talkingroom.xyz/game-modding/r2modman-install) to learn about installing the program.
 
-**(Vulgar)** **REPO**: `0196ad6e-4c65-7f8e-5858-620a90c78495` @ May 3rd 2025 
+**(Vulgar)** **REPO**: `0196d091-51c6-727b-a92c-9b57a21f4f44` @ May 14th 2025 
 
 ### Prism Launcher (minecraft)
 Prism Launcher can be downloaded from their [website](https://prismlauncher.org/).
