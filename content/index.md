@@ -21,6 +21,7 @@ Generally any questions or concerns can be directed towards VulgarBear or any of
 ### Modding
 - [[mod collections]]
 - [[r2modman install]]
+- [[Gale Mod Manager Install]]
 
 ### Tabletop Room
 - [[current games]]
