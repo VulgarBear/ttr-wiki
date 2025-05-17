@@ -20,7 +20,7 @@ We utilize a few different ways to mod our games including steam workshop collec
 ### r2modman & Gale Mod Manager
 r2modman packs are shared via codes. Generally an announcement will be made if a pack has been updated. Check the [[r2modman install]] or [[Gale Mod Manager Install]] pages for more information on installation.
 
-**(Vulgar) REPO**: `0196d212-fb83-aad7-0911-89e5abe45d9c` @ May 15th 2025
+**(Vulgar) REPO**: `0196e078-f027-d9a8-5528-f1e7df06c152` @ May 15th 2025
 
 ### Prism Launcher (minecraft)
 Prism Launcher can be downloaded from their [website](https://prismlauncher.org/).
