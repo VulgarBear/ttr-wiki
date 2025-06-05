@@ -20,7 +20,7 @@ We utilize a few different ways to mod our games including steam workshop collec
 **(Vulgar)** [R.E.P.O](https://thunderstore.io/c/repo/p/talking_room/talking_room_repo/): Collection of mods used for REPO, can be installed with a Thunderstore compatible launcher.
 
 ### Gale Mod Manager
-r2modman packs are shared via codes. Generally an announcement will be made if a pack has been updated. Check the [[r2modman install]] or [[Gale Mod Manager Install]] pages for more information on installation.
+r2modman packs are shared via codes. Generally an announcement will be made if a pack has been updated. Check the [[Gale Mod Manager Install]] page for more information on installation. If you would rather use R2 go to the [[r2modman install]] page.
 
 **(Vulgar) REPO**: `019740e2-bbde-0194-433d-d07de7784cad` @ June 5th 2025
 
