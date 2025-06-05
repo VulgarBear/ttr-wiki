@@ -8,7 +8,9 @@ tags:
 draft: false
 date: 5/2/25
 ---
-We utilize a few different ways to mod our games including steam workshop collections, r2modman packs, and prism launcher. If you would like a mod to a pack below please speak to the owner. To have your pack listed here please contact server staff.
+We utilize a few different ways to mod our games including steam workshop collections, Gale Mode Manager packs, and prism launcher. If you would like a mod to a pack below please speak to the owner. To have your pack listed here please contact server staff.
+
+*Gale Mod Manager has be chosen in favor over R2ModMan. If you use R2 the codes supplied below should continue to work as the programs are built on the same base code.*
 
 ### Steam Collections
 **(Vulgar)** [Civ VI: Unified Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2804180095): Collection of mods to enhance and improve on the default Civ VI playthrough. Generally used within our multiplayer games. 
@@ -17,10 +19,10 @@ We utilize a few different ways to mod our games including steam workshop collec
 
 **(Vulgar)** [R.E.P.O](https://thunderstore.io/c/repo/p/talking_room/talking_room_repo/): Collection of mods used for REPO, can be installed with a Thunderstore compatible launcher.
 
-### r2modman & Gale Mod Manager
+### Gale Mod Manager
 r2modman packs are shared via codes. Generally an announcement will be made if a pack has been updated. Check the [[r2modman install]] or [[Gale Mod Manager Install]] pages for more information on installation.
 
-**(Vulgar) REPO**: `019740d1-a493-d3c0-51f8-b0117172b22c` @ June 5th 2025
+**(Vulgar) REPO**: `019740e2-bbde-0194-433d-d07de7784cad` @ June 5th 2025
 
 ### Prism Launcher (minecraft)
 Prism Launcher can be downloaded from their [website](https://prismlauncher.org/).

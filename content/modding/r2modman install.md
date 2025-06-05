@@ -8,6 +8,8 @@ tags:
 draft: false
 date: 5/2/25
 ---
+*This option still works but has been replaced by the Gale Mod Manager. Codes supplied should continue to work as they are based on the same system.*
+
 Download the following from [Thunderstore](https://thunderstore.io/package/ebkr/r2modman/) and install it on your system. Use the manual  download option. You may ignore the warning when installing as they just didn't pay for a certificate from Microsoft.
 
 Click more info and then select **Run Anyway**
