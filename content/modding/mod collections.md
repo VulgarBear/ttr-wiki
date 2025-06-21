@@ -17,12 +17,12 @@ We utilize a few different ways to mod our games including steam workshop collec
 
 ### ThunderStore
 
-**(Vulgar)** [R.E.P.O](https://thunderstore.io/c/repo/p/talking_room/talking_room_repo/): Collection of mods used for REPO, can be installed with a Thunderstore compatible launcher. @ June 7th 2025
+**(Vulgar)** [R.E.P.O](https://thunderstore.io/c/repo/p/talking_room/talking_room_repo/): Collection of mods used for REPO, can be installed with a Thunderstore compatible launcher. @ June 20th 2025
 
 ### Gale Mod Manager
 r2modman packs are shared via codes. Generally an announcement will be made if a pack has been updated. Check the [[Gale Mod Manager Install]] page for more information on installation. If you would rather use R2 go to the [[r2modman install]] page.
 
-**(Vulgar) REPO**: `01974c44-6979-4f75-b6f9-b469937678b2` @ June 7th 2025
+**(Vulgar) REPO**: `01979098-a771-bdf8-80b3-69c39c86d2db` @ June 20th 2025
 
 ### Prism Launcher (minecraft)
 Prism Launcher can be downloaded from their [website](https://prismlauncher.org/).
