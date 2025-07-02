@@ -21,7 +21,7 @@ n/a
 ### Gale Mod Manager
 r2modman packs are shared via codes. Generally an announcement will be made if a pack has been updated. Check the [[Gale Mod Manager Install]] page for more information on installation. If you would rather use R2 go to the [[r2modman install]] page.
 
-**(Vulgar) REPO**: `0197ca28-858d-89ed-9a57-61bb3ace82f3`
+**(Vulgar) REPO**: `0197cac3-4bd7-fd5b-21e9-ef27196fdda6`
 
 ### Prism Launcher (minecraft)
 Prism Launcher can be downloaded from their [website](https://prismlauncher.org/).
