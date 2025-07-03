@@ -1,12 +1,12 @@
 ---
 title: Modding with TTR
 description: Quick information about mods, collections, or packs for use within the TTR community.
-aliases:
+aliases: 
 tags:
   - games
   - modding
 draft: false
-date: 7/02/25
+date: 7/03/25
 ---
 We utilize a few different ways to mod our games including steam workshop collections, Gale Mode Manager packs, and prism launcher. If you would like a mod to a pack below please speak to the owner. To have your pack listed here please contact server staff.
 
@@ -21,7 +21,8 @@ n/a
 ### Gale Mod Manager
 r2modman packs are shared via codes. Generally an announcement will be made if a pack has been updated. Check the [[Gale Mod Manager Install]] page for more information on installation. If you would rather use R2 go to the [[r2modman install]] page.
 
-**(Vulgar) REPO**: `0197cac3-4bd7-fd5b-21e9-ef27196fdda6`
+**Updated Jul 3, 2025**
+**(Vulgar) REPO**: `0197d151-b882-ad34-051a-f2c50978ef40`
 
 ### Prism Launcher (minecraft)
 Prism Launcher can be downloaded from their [website](https://prismlauncher.org/).
